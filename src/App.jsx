@@ -22,6 +22,17 @@ import Ex33 from "../exercises/Ex33";
 import Ex34 from "../exercises/Ex34";
 import Ex35 from "../exercises/Ex35";
 import Ex36 from "../exercises/Ex36";
+import Ex37 from "../exercises/Ex37";
+import Ex38 from "../exercises/Ex38";
+import Ex39 from "../exercises/Ex39";
+import Ex40 from "../exercises/Ex40";
+import Ex41 from "../exercises/Ex41";
+import Ex42 from "../exercises/Ex42";
+import Ex43 from "../exercises/Ex43";
+import Ex44 from "../exercises/Ex44";
+import Ex45 from "../exercises/Ex45";
+import Ex46 from "../exercises/Ex46";
+import Ex47 from "../exercises/Ex47";
 
 import Ex5 from "../exercises/Ex5";
 import Ex6 from "../exercises/Ex6";
@@ -57,7 +68,18 @@ const exercises = {
   Ex33,
   Ex34,
   Ex35,
-  Ex36
+  Ex36,
+  Ex37,
+  Ex38,
+  Ex39,
+  Ex40,
+  Ex41,
+  Ex42,
+  Ex43,
+  Ex44,
+  Ex45,
+  Ex46,
+  Ex47
 }
 
 const App = () => {
