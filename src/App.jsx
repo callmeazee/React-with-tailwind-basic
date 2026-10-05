@@ -60,7 +60,9 @@ import Ex75 from "../exercises/Ex75";
 import Ex76 from "../exercises/Ex76";
 import Ex77 from "../exercises/Ex77";
 import Ex78 from "../exercises/Ex78";
+import Ex79 from "../exercises/Ex79";
 import Ex8 from "../exercises/Ex8";
+import Ex80 from "../exercises/Ex80";
 import Ex9 from "../exercises/Ex9";
 const exercises = {
   Ex1,
@@ -125,7 +127,9 @@ const exercises = {
   Ex75,
   Ex76,
   Ex77,
-  Ex78
+  Ex78,
+  Ex79,
+  Ex80
 }
 
 const App = () => {
