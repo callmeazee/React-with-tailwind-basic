@@ -47,7 +47,19 @@ import Ex62 from "../exercises/Ex62";
 import Ex63 from "../exercises/Ex63";
 import Ex64 from "../exercises/Ex64";
 import Ex65 from "../exercises/Ex65";
+import Ex66 from "../exercises/Ex66";
+import Ex67 from "../exercises/Ex67";
+import Ex68 from "../exercises/Ex68";
+import Ex69 from "../exercises/Ex69";
 import Ex7 from "../exercises/Ex7";
+import Ex70 from "../exercises/Ex70";
+import Ex71 from "../exercises/Ex71";
+import Ex72 from "../exercises/Ex72";
+import Ex73 from "../exercises/Ex73";
+import Ex75 from "../exercises/Ex75";
+import Ex76 from "../exercises/Ex76";
+import Ex77 from "../exercises/Ex77";
+import Ex78 from "../exercises/Ex78";
 import Ex8 from "../exercises/Ex8";
 import Ex9 from "../exercises/Ex9";
 const exercises = {
@@ -101,7 +113,19 @@ const exercises = {
   Ex62,
   Ex63,
   Ex64,
-  Ex65
+  Ex65,
+  Ex66,
+  Ex67,
+  Ex68,
+  Ex69,
+  Ex70,
+  Ex71,
+  Ex72,
+  Ex73,
+  Ex75,
+  Ex76,
+  Ex77,
+  Ex78
 }
 
 const App = () => {
